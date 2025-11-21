@@ -4,9 +4,9 @@
     <DataCollectors>
       <DataCollector friendlyName="XPlat code coverage">
         <Configuration>
-          <Format>cobertura,lcov</Format>
+          <Format>cobertu,lcov</Format>
         </Configuration>
       </DataCollector>
-    </DataCollectors>
+    </DataCollectors
   </DataCollectionRunSettings>
 </RunSettings>
